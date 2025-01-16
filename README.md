@@ -16,9 +16,7 @@ click [here](https://www.markdownguide.org/basic-syntax/) to learn
 
 **click [here](https://geohypertm.github.io/markdown)**
 
-![geohypertm | markdown]()
+![geohypertm | markdown](./image.png)
 
 ---
-
-[![Video Thumbnail](https://img.youtube.com/vi/7ico0nRBc0w/maxresdefault.jpg)](https://www.youtube.com/watch?v=7ico0nRBc0w)
 
