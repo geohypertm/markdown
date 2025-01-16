@@ -20,4 +20,5 @@ click [here](https://www.markdownguide.org/basic-syntax/) to learn
 
 ---
 
-`https://www.youtube.com/watch?v=bgmwnfYtR5c`
+[![Video Thumbnail](https://img.youtube.com/vi/7ico0nRBc0w/maxresdefault.jpg)](https://www.youtube.com/watch?v=7ico0nRBc0w)
+
